@@ -9,7 +9,7 @@ export const metadata: Metadata = {
       "Liftoff is an AI-powered mock interview platform that helps you practice for your next job interview.",
     images: [
       {
-        url: "https://demo.useliftoff.com/opengraph-image",
+        url: "https://liftoff-three-rose.vercel.app/opengraph-image",
       },
     ],
   },
@@ -18,10 +18,9 @@ export const metadata: Metadata = {
     title: "Liftoff - AI-Powered Mock Interviews",
     description:
       "Liftoff is an AI-powered mock interview platform that helps you practice for your next job interview.",
-    images: ["https://demo.useliftoff.com/opengraph-image"],
-    creator: "@tmeyer_me",
+    images: ["https://liftoff-three-rose.vercel.app/opengraph-image"],
   },
-  metadataBase: new URL("https://demo.useliftoff.com"),
+  metadataBase: new URL("https://liftoff-three-rose.vercel.app"),
   themeColor: "#FFF",
 };
 
